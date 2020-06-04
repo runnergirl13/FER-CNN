@@ -13,8 +13,8 @@ Algorithms are based on TensorFlow object detection repository located at https:
 ## Results
 ### Building detection and classification
 
-![](pic/box.PNG)
+![](pic/box1.JPG)
 
 ### Boundaries of detected buildings
 
-![](pic/boundaries.PNG)
+![](pic//boundaries1.JPG)
