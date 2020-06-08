@@ -1,0 +1,50 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>318.JPG</filename>
+	<path>F:\Sieci\BD2\318.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>818</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>37</ymin>
+			<xmax>256</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>30</ymin>
+			<xmax>582</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>676</xmin>
+			<ymin>85</ymin>
+			<xmax>777</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
