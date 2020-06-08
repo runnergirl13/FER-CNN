@@ -1,0 +1,50 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>235.JPG</filename>
+	<path>F:\Sieci\BD2\235.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>325</width>
+		<height>679</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>68</ymin>
+			<xmax>285</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>329</ymin>
+			<xmax>225</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>506</ymin>
+			<xmax>199</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,110 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>227.JPG</filename>
+	<path>F:\Sieci\BD2\227.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>terrace house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>321</ymin>
+			<xmax>224</xmax>
+			<ymax>740</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>terrace house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>275</ymin>
+			<xmax>380</xmax>
+			<ymax>673</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>terrace house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>226</ymin>
+			<xmax>604</xmax>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>63</ymin>
+			<xmax>502</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>150</ymin>
+			<xmax>517</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>129</ymin>
+			<xmax>264</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>225</ymin>
+			<xmax>267</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>161</ymin>
+			<xmax>90</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

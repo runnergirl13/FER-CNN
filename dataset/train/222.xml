@@ -1,0 +1,74 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>222.JPG</filename>
+	<path>F:\Sieci\BD2\222.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>844</width>
+		<height>674</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>257</ymin>
+			<xmax>787</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>540</xmin>
+			<ymin>431</ymin>
+			<xmax>674</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>138</ymin>
+			<xmax>581</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>519</ymin>
+			<xmax>262</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>578</ymin>
+			<xmax>209</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>

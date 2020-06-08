@@ -1,0 +1,146 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>233.JPG</filename>
+	<path>F:\Sieci\BD2\233.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>747</width>
+		<height>765</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>163</ymin>
+			<xmax>258</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>16</ymin>
+			<xmax>228</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>48</ymin>
+			<xmax>437</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>212</ymin>
+			<xmax>467</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>195</ymin>
+			<xmax>591</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>354</ymin>
+			<xmax>482</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>466</ymin>
+			<xmax>674</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>589</ymin>
+			<xmax>330</xmax>
+			<ymax>728</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>649</ymin>
+			<xmax>680</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>681</ymin>
+			<xmax>531</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>339</ymin>
+			<xmax>608</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

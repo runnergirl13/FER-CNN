@@ -1,0 +1,62 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>239.JPG</filename>
+	<path>F:\Sieci\BD2\239.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>986</width>
+		<height>779</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shopping_center</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>287</ymin>
+			<xmax>971</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>101</ymin>
+			<xmax>124</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>73</ymin>
+			<xmax>306</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>6</ymin>
+			<xmax>465</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>
