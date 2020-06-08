@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>269.JPG</filename>
+	<path>F:\Sieci\BD2\269.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>74</ymin>
+			<xmax>498</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

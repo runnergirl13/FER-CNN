@@ -1,0 +1,38 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>284.JPG</filename>
+	<path>F:\Sieci\BD2\284.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>church</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>397</ymin>
+			<xmax>388</xmax>
+			<ymax>666</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>31</ymin>
+			<xmax>486</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
