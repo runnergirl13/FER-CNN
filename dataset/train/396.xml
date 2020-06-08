@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>396.JPG</filename>
+	<path>F:\Sieci\BD2\396.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>478</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>63</ymin>
+			<xmax>249</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>380.JPG</filename>
+	<path>F:\Sieci\BD2\380.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>563</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>church</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>130</ymin>
+			<xmax>551</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>280</ymin>
+			<xmax>546</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>32</ymin>
+			<xmax>454</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

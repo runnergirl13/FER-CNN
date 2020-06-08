@@ -1,0 +1,50 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>401.JPG</filename>
+	<path>F:\Sieci\BD2\401.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>591</width>
+		<height>820</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>church</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>38</ymin>
+			<xmax>458</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>418</ymin>
+			<xmax>550</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>608</ymin>
+			<xmax>545</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+</annotation>
