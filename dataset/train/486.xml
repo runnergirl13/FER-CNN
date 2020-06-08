@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>486.JPG</filename>
+	<path>F:\Sieci\BD2\486.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>710</width>
+		<height>613</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shopping_center</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>342</ymin>
+			<xmax>599</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

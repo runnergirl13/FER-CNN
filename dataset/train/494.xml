@@ -1,0 +1,38 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>494.JPG</filename>
+	<path>F:\Sieci\BD2\494.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>244</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>family house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>205</ymin>
+			<xmax>212</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>church</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>72</ymin>
+			<xmax>139</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>
