@@ -1,0 +1,38 @@
+<annotation>
+	<folder>BD2</folder>
+	<filename>130.JPG</filename>
+	<path>F:\Sieci\BD2\130.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>844</width>
+		<height>664</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>block of flats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>49</ymin>
+			<xmax>388</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shopping_center</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>311</ymin>
+			<xmax>832</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>
